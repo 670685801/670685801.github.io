@@ -1,23 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>小米平板2删除温控</title>
-    <url>/2020/07/07/%E5%B0%8F%E7%B1%B3%E5%B9%B3%E6%9D%BF2%E5%88%A0%E9%99%A4%E6%B8%A9%E6%8E%A7/</url>
-    <content><![CDATA[<h1 id="小米平板2删除温控"><a href="#小米平板2删除温控" class="headerlink" title="小米平板2删除温控"></a>小米平板2删除温控</h1><h2 id="注意"><a href="#注意" class="headerlink" title="注意"></a>注意</h2><ol>
-<li>温控删除以后，平板待机温度会上升，最好改过散热以后在进行</li>
-<li>自己测试温控删除后会对于充电速度有一定影响<h2 id="操作"><a href="#操作" class="headerlink" title="操作"></a>操作</h2></li>
-<li>右键–&gt;此电脑–&gt;管理<br><img src= "/img/loading.gif" data-src="https://img-blog.csdnimg.cn/20200628163907925.png" alt="在这里插入图片描述"><ol start="2">
-<li>打开管理，选择设备管理器–&gt;系统设备<br><img src= "/img/loading.gif" data-src="https://img-blog.csdnimg.cn/20200628164016859.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQzNTcyODg3,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"></li>
-<li>删除这个，最主要的温控驱动，<br><img src= "/img/loading.gif" data-src="https://img-blog.csdnimg.cn/20200628164503725.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQzNTcyODg3,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"><h2 id="注意：当然这就完成了温控删除，但是一旦重启设备就会恢复，所以可以选择如下方法之一"><a href="#注意：当然这就完成了温控删除，但是一旦重启设备就会恢复，所以可以选择如下方法之一" class="headerlink" title="注意：当然这就完成了温控删除，但是一旦重启设备就会恢复，所以可以选择如下方法之一"></a>注意：当然这就完成了温控删除，但是一旦重启设备就会恢复，所以可以选择如下方法之一</h2></li>
-<li>设定平板为休眠状态，每次不关机，只休眠</li>
-<li>把WiFi设置成按流量计费的网络</li>
-<li>刷bios进行温度墙改动 </li>
-</ol>
-</li>
-</ol>
-]]></content>
-  </entry>
-  <entry>
     <title>jQuery笔记</title>
     <url>/2020/07/07/jQuery%E7%AC%94%E8%AE%B0/</url>
     <content><![CDATA[<h2 id="为什么要学jQuery"><a href="#为什么要学jQuery" class="headerlink" title="为什么要学jQuery"></a>为什么要学jQuery</h2><p>使用javascript开发过程中，有许多的缺点：</p>
@@ -218,6 +201,23 @@
 <td align="center">找上一次兄弟</td>
 </tr>
 </tbody></table>
+]]></content>
+  </entry>
+  <entry>
+    <title>小米平板2删除温控</title>
+    <url>/2020/07/07/%E5%B0%8F%E7%B1%B3%E5%B9%B3%E6%9D%BF2%E5%88%A0%E9%99%A4%E6%B8%A9%E6%8E%A7/</url>
+    <content><![CDATA[<h1 id="小米平板2删除温控"><a href="#小米平板2删除温控" class="headerlink" title="小米平板2删除温控"></a>小米平板2删除温控</h1><h2 id="注意"><a href="#注意" class="headerlink" title="注意"></a>注意</h2><ol>
+<li>温控删除以后，平板待机温度会上升，最好改过散热以后在进行</li>
+<li>自己测试温控删除后会对于充电速度有一定影响<h2 id="操作"><a href="#操作" class="headerlink" title="操作"></a>操作</h2></li>
+<li>右键–&gt;此电脑–&gt;管理<br><img src= "/img/loading.gif" data-src="https://img-blog.csdnimg.cn/20200628163907925.png" alt="在这里插入图片描述"><ol start="2">
+<li>打开管理，选择设备管理器–&gt;系统设备<br><img src= "/img/loading.gif" data-src="https://img-blog.csdnimg.cn/20200628164016859.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQzNTcyODg3,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"></li>
+<li>删除这个，最主要的温控驱动，<br><img src= "/img/loading.gif" data-src="https://img-blog.csdnimg.cn/20200628164503725.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQzNTcyODg3,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"><h2 id="注意：当然这就完成了温控删除，但是一旦重启设备就会恢复，所以可以选择如下方法之一"><a href="#注意：当然这就完成了温控删除，但是一旦重启设备就会恢复，所以可以选择如下方法之一" class="headerlink" title="注意：当然这就完成了温控删除，但是一旦重启设备就会恢复，所以可以选择如下方法之一"></a>注意：当然这就完成了温控删除，但是一旦重启设备就会恢复，所以可以选择如下方法之一</h2></li>
+<li>设定平板为休眠状态，每次不关机，只休眠</li>
+<li>把WiFi设置成按流量计费的网络</li>
+<li>刷bios进行温度墙改动 </li>
+</ol>
+</li>
+</ol>
 ]]></content>
   </entry>
   <entry>
